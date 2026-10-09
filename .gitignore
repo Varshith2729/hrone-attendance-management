@@ -1,0 +1,23 @@
+# Environment variables & secrets
+.env
+.env.*
+*.env
+
+# Python & Virtual Environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
+env/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary test scratch files
+scratch/
